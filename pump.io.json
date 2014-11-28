@@ -1,0 +1,15 @@
+{
+    "driver":  "mongodb",
+    "params":  {"dbname": "pump_coaching"},
+    "secret":  "IlimiCoaching",
+    "noweb":  false,
+    "site":  "Ilimi Coaching",
+    "port":  9900,
+    "hostname":  "dev.ilimi.in",
+    "address":  "127.0.0.1",
+    "nologger":  false,
+    "uploaddir": "/Users/santhosh/Perceptron/git/perceptron-coaching/uploads",
+    "debugClient": false,
+    "firehose": "none",
+    "children": 1
+}
