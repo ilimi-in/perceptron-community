@@ -6,7 +6,7 @@
     "site":  "Ilimi",
     "port":  81,
     "hostname":  "54.160.179.255",
-    "address":  "127.0.0.1",
+    "address":  "0.0.0.0",
     "nologger":  false,
     "uploaddir": "/data/production/pump/uploads",
     "debugClient": false,
