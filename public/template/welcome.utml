@@ -5,7 +5,7 @@
 
 <ul>
     <li>
-        To start modify your <a href="/private/player/dashboard#/community/people/<%- profile.preferredUsername %>">profile</a> by updating your photograph. This will help other put a face to your name
+        To start modify your <a href="#/community/people/<%- profile.preferredUsername %>">profile</a> by updating your photograph. This will help other put a face to your name
     </li>
     <li>
         Your account id is <strong><%- profile.preferredUsername %></strong>.
